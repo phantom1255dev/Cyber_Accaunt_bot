@@ -1,0 +1,23 @@
+{
+  "name": "cyber-account-shop",
+  "version": "1.0.0",
+  "description": "Free Fire Akkount Bozor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "free",
+    "fire",
+    "pubg",
+    "akkount",
+    "bozor",
+    "vip"
+  ],
+  "author": "Phantom_1255",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^2.1.0",
+    "telebot": "^1.4.1"
+  }
+}
